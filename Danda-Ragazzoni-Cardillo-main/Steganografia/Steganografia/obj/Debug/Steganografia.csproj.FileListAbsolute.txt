@@ -1,0 +1,24 @@
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\bin\Debug\Steganografia.exe.config
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\bin\Debug\Steganografia.exe
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\bin\Debug\Steganografia.pdb
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.csprojAssemblyReference.cache
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.Form1.resources
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.Form2.resources
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.Form3.resources
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.Properties.Resources.resources
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.csproj.GenerateResource.cache
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.csproj.CoreCompileInputs.cache
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.exe
+C:\Users\Federico Danda\Desktop\Programmi\c#\Steganografia\Steganografia\obj\Debug\Steganografia.pdb
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\bin\Debug\Steganografia.exe.config
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\bin\Debug\Steganografia.exe
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\bin\Debug\Steganografia.pdb
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.csprojAssemblyReference.cache
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.Form1.resources
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.Form2.resources
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.Form3.resources
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.Properties.Resources.resources
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.csproj.GenerateResource.cache
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.csproj.CoreCompileInputs.cache
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.exe
+C:\Users\Davide\Desktop\Danda-Ragazzoni-Cardillo-main\Steganografia\Steganografia\obj\Debug\Steganografia.pdb
